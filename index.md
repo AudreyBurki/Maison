@@ -2,17 +2,34 @@
 
 [To main page](https://audreyburki.github.io/Website/)
 
-## Maison à louer dans la vallé de la Cèze (Gard)
+# Maison à louer dans la vallé de la Cèze (Gard)
+
+Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carreaux ciments d’origine, moulures) en cours de rénovation mais tout à fait fonctionnelle, avec un jardin de 400 m2 et une terrasse à l'étage.
+Optimale pour 4 personnes (peut accuillir jusqu'à 6 personnes)
 
 
 
 
+
+
+[La maison](https://audreyburki.github.io/Lab-News/)  
+
+[L'endroit](https://audreyburki.github.io/Lab-Members/)  
+
+[Les environs](https://audreyburki.github.io/Open-Positions/)  
+
+[Activités dans les environs]
+
+[Prix et réservation]
+
+
+
+<img src="./Lab_June2021.jpg">
+Here is a picture of our first non-virtual social event in more than a year!
 
 
 
 ### La maison
-
-Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carreaux ciments d’origine, moulures) en cours de rénovation mais tout à fait fonctionnelle. 
 
 
 ### L'endroit
