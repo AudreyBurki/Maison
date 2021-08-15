@@ -9,8 +9,7 @@ Il s’agit d’une maison datant de la fin du 19ème siècle / début 20ème av
 Optimale pour 4 personnes (peut accueillir jusqu'à 6 personnes)
 
 
-![20210408_143157](https://user-images.githubusercontent.com/28299451/129482051-0cfd8adf-b29d-49e1-a37f-51413f8d249c.jpg)
-
+<img src="./front2.jpg">
 
 
 
@@ -24,9 +23,6 @@ Optimale pour 4 personnes (peut accueillir jusqu'à 6 personnes)
 
 [Prix et réservation](https://audreyburki.github.io/prix/)  
 
-
-
-<img src="./Lab_June2021.jpg">
 
 
 
