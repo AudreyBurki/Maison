@@ -2,19 +2,28 @@
 
 [To main page](https://audreyburki.github.io/Website/)
 
-## Newly funded projects 
+## Maison à louer dans la vallé de la Cèze (Gard)
 
-### (limits of) Variability in advanced planning
-May 2021. The DFG funds the second phase of the [SFB 1287 on Variability in language](https://www.uni-potsdam.de/de/sfb1287/uebersicht.html)
-Our project in the second funding phase (B05, 320'660 €, 4 years, P.I. A. Bürki) will examine variability in advanced planning. Using a virtual driving simulator, we will investigate whether advanced planning (i.e., how much of an utterance is prepared before the onset of the articulation) depends on available cognitie resources. The project will start in July.<br/>
+
+
+
+
+
+
+### La maison
+
+Il s’agit d’une maison datant de la fin du 19ème siècle avec cachet (carreaux ciments d’origine, moulures) en cours de rénovation mais tout à fait fonctionnelle. 
+
+
+### L'endroit
+La maison est située à Bessèges, en haut d’une impasse avec une très belle vue sur les collines environnantes. La ville de Bessèges n’a rien de très intéressant (si ce n’est son passé, dont il reste assez peu de vestiges) mais la région est très belle avec de multiples possibilités de baignade en rivière, de ballades et de visites.
 
 
 ### New insights into the speaker’s lexicon: Computational modelling and experimental data
 March 2021: New project funded by the DFG (3 years, 239’000 €, P.I. A. Bürki). The project will start in a few months. Positions will be available. <br/> <br/>
  
   
-  
-
+ 
 ## Currently funded projects
 
 ### Planning utterances across languages 
