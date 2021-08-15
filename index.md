@@ -8,7 +8,7 @@ Il s’agit d’une maison datant de la fin du 19ème siècle / début 20ème av
 
 Optimale pour 4 personnes (peut accueillir jusqu'à 6 personnes)
 
-
+![front2](https://user-images.githubusercontent.com/28299451/129482494-738304cc-185d-409d-9f2b-a78b3ed943b0.jpg)
 
 
 [La maison](https://audreyburki.github.io/details/)  
